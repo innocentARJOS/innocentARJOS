@@ -1,7 +1,14 @@
 ## Hi there 👋
-I'm 22 years old Machine Learning & Artificial Intelligence Enthusiast from China.
 
-🔭 I’m currently a doctoral student at Southeast University。
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
+
+
+## About ME 🔭:
+### I’m currently a doctoral student at Southeast University major in Machine Learning & Artificial Intelligence.
+
+
 <!--
 **innocentARJOS/innocentARJOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
